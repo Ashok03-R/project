@@ -1,1 +1,1 @@
-creates index1.txt
+hello gys welcome
